@@ -52,5 +52,11 @@
         "key": "aliontop",
         "expirydate": "12-11-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "714c188ada575ddb",
+        "key": "saitama0",
+        "expirydate": "29-11-2025",
+        "Allowoffline": false
     }
 ]
