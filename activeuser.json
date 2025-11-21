@@ -22,5 +22,11 @@
         "key": "koniiiiip",
         "expirydate": "30-1-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b1d635f6e154c837",
+        "key": "koniiiiiiifamboy",
+        "expirydate": "25-11-2026",
+        "Allowoffline": false
     }
 ]
