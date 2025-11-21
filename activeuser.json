@@ -58,5 +58,11 @@
         "key": "saitama0",
         "expirydate": "29-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6bd83661d5738db2",
+        "key": "fanboynaz",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
 ]
