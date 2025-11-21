@@ -46,5 +46,11 @@
         "key": "sjksoskdosllx",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d1826b609cb4a872",
+        "key": "aliontop",
+        "expirydate": "12-11-2027",
+        "Allowoffline": false
     }
 ]
