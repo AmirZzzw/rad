@@ -10,5 +10,11 @@
         "key": "Amirplk",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "76eee27473631193",
+        "key": "radpaneltest",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
