@@ -64,5 +64,11 @@
         "key": "fanboynaz",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d8bc5adecd937b4c",
+        "key": "zkhzkzkzmz",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
