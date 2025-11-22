@@ -106,5 +106,11 @@
         "key": "aljxzkzkk",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "624bece06aa68705",
+        "key": "MyGirl",
+        "expirydate": "25-12-9999",
+        "Allowoffline": false
     }
 ]
