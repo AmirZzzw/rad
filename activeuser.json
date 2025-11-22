@@ -94,5 +94,11 @@
         "key": "koniiiiiii",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "101ce38f36592441",
+        "key": "Axernold",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
     }
 ]
