@@ -112,5 +112,11 @@
         "key": "MyGirl",
         "expirydate": "25-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "57c311030c495c0b",
+        "key": "Kiramirtokont",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
     }
 ]
