@@ -130,5 +130,11 @@
         "key": "Gorbahhh",
         "expirydate": "25-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7b316a0082a7608a",
+        "key": "ArshamKonii",
+        "expirydate": "30-12-2060",
+        "Allowoffline": false
     }
 ]
