@@ -118,5 +118,11 @@
         "key": "Kiramirtokont",
         "expirydate": "25-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5982e461a6158918",
+        "key": "Test3horse",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
