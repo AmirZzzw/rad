@@ -148,5 +148,11 @@
         "key": "vjjgjokjj",
         "expirydate": "25-11*2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7f3b03c58d0e4bcf",
+        "key": "scopyyyyy",
+        "expirydate": "11-12-2080",
+        "Allowoffline": false
     }
 ]
