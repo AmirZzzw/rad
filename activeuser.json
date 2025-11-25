@@ -172,5 +172,11 @@
         "key": "lorking",
         "expirydate": "12-11*2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b1d635f6e154c837",
+        "key": "039",
+        "expirydate": "12-11*2026",
+        "Allowoffline": false
     }
 ]
