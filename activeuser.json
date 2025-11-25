@@ -184,5 +184,11 @@
         "key": "riokx",
         "expirydate": "30-11-2060",
         "Allowoffline": false
+    },
+    {
+        "device_id": "73964442db3de755",
+        "key": "koniiiiiii",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
     }
 ]
