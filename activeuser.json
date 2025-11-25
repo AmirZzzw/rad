@@ -166,5 +166,11 @@
         "key": "radinjinf",
         "expirydate": "26-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8333d891b3a2c52a",
+        "key": "lorking",
+        "expirydate": "12-11*2026",
+        "Allowoffline": false
     }
 ]
