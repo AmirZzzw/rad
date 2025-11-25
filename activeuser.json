@@ -178,5 +178,11 @@
         "key": "039",
         "expirydate": "12-11*2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8333d891b3a2c52a",
+        "key": "riokx",
+        "expirydate": "30-11-2060",
+        "Allowoffline": false
     }
 ]
