@@ -208,5 +208,11 @@
     "key": "054",
     "expirydate": "26-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "08ab41fe4c568b15",
+    "key": "Mmd",
+    "expirydate": "26-11-2025",
+    "Allowoffline": false
   }
 ]
