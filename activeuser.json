@@ -160,5 +160,11 @@
         "key": "koni24",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "10b7d138fd31429c",
+        "key": "radinjinf",
+        "expirydate": "26-11-2025",
+        "Allowoffline": false
     }
 ]
