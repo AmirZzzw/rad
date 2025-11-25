@@ -214,5 +214,11 @@
     "key": "Mmd",
     "expirydate": "26-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "‌36a5cf593f99b893",
+    "key": "Hosin",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
