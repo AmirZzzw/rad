@@ -154,5 +154,11 @@
         "key": "scopyyyyy",
         "expirydate": "11-12-2080",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d95cc6d69fc87397",
+        "key": "koni24",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
     }
 ]
