@@ -244,5 +244,11 @@
     "key": "Iliakoni",
     "expirydate": "29-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "10b7d138fd31429c",
+    "key": "R4",
+    "expirydate": "27-11-2025",
+    "Allowoffline": false
   }
 ]
