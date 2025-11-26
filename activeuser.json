@@ -238,5 +238,11 @@
     "key": "Test",
     "expirydate": "27-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "eba6d6c31f0829b2",
+    "key": "Iliakoni",
+    "expirydate": "29-11-2025",
+    "Allowoffline": false
   }
 ]
