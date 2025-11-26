@@ -232,5 +232,11 @@
     "key": "R4D1N",
     "expirydate": "05-05-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f84ffd051cc2ab9b",
+    "key": "Test",
+    "expirydate": "27-11-2025",
+    "Allowoffline": false
   }
 ]
