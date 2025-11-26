@@ -250,5 +250,11 @@
     "key": "R4",
     "expirydate": "27-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "74b3ce0c71e775cf",
+    "key": "055",
+    "expirydate": "26-12-2025",
+    "Allowoffline": false
   }
 ]
