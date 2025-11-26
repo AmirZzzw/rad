@@ -244,5 +244,11 @@
     "key": "Test1",
     "expirydate": "27-11-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "1634a9cc3362b5d9",
+    "key": "070",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
