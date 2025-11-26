@@ -238,5 +238,11 @@
     "key": "039",
     "expirydate": "24-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "35f77cf020cfa433",
+    "key": "Test1",
+    "expirydate": "27-11-2025",
+    "Allowoffline": false
   }
 ]
