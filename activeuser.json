@@ -250,5 +250,11 @@
     "key": "070",
     "expirydate": "16-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "4749db5e82947e9d",
+    "key": "b",
+    "expirydate": "28-11-2025",
+    "Allowoffline": false
   }
 ]
