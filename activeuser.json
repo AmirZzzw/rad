@@ -172,11 +172,5 @@
     "key": "089",
     "expirydate": "31-12-9999",
     "Allowoffline": false
-  },
-  {
-    "device_id": "80518657748b8a60",
-    "key": "India",
-    "expirydate": "02-12-2025",
-    "Allowoffline": false
   }
 ]
