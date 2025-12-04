@@ -172,5 +172,11 @@
     "key": "089",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9d58d3e38e733fa5",
+    "key": "R4D1NN",
+    "expirydate": "03-01-2026",
+    "Allowoffline": false
   }
 ]
