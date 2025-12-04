@@ -184,5 +184,11 @@
     "key": "Moosbekk",
     "expirydate": "02-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d8ccf78f76ad27ed",
+    "key": "Khodam",
+    "expirydate": "12-03-2026",
+    "Allowoffline": false
   }
 ]
