@@ -178,5 +178,11 @@
     "key": "R4D1NN",
     "expirydate": "03-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3b575c9258025801",
+    "key": "Moosbekk",
+    "expirydate": "02-02-2026",
+    "Allowoffline": false
   }
 ]
