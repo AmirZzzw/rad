@@ -208,5 +208,11 @@
     "key": "danial9",
     "expirydate": "13-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "24e84b5124145744",
+    "key": "Taber",
+    "expirydate": "05-01-2026",
+    "Allowoffline": false
   }
 ]
