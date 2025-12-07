@@ -214,5 +214,11 @@
     "key": "Taber",
     "expirydate": "05-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "8f0d065a2317299c",
+    "key": "8f0d065a2317299c",
+    "expirydate": "14-12-2025",
+    "Allowoffline": false
   }
 ]
