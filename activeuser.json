@@ -226,5 +226,11 @@
     "key": "Kosamat",
     "expirydate": "09-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b4534f6d0019143e",
+    "key": "b4534f6d0019143e",
+    "expirydate": "26-12-2025",
+    "Allowoffline": false
   }
 ]
