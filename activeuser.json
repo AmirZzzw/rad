@@ -220,5 +220,11 @@
     "key": "8f0d065a2317299c",
     "expirydate": "14-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "385c1b03668efe65",
+    "key": "Kosamat",
+    "expirydate": "09-12-2025",
+    "Allowoffline": false
   }
 ]
