@@ -238,5 +238,11 @@
     "key": "Iloveyou",
     "expirydate": "08-02-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "523e01d3a7c43a51",
+    "key": "928",
+    "expirydate": "30-12-2025",
+    "Allowoffline": false
   }
 ]
