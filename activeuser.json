@@ -244,5 +244,11 @@
     "key": "928",
     "expirydate": "30-12-2025",
     "Allowoffline": false
+  },
+  {
+    "device_id": "6bd83661d5738db2",
+    "key": "Sagtaha",
+    "expirydate": "11-01-2026",
+    "Allowoffline": false
   }
 ]
