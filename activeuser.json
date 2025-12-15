@@ -250,5 +250,11 @@
     "key": "Sagtaha",
     "expirydate": "11-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "056d96f51610b239",
+    "key": "1day",
+    "expirydate": "16-12-2025",
+    "Allowoffline": false
   }
 ]
