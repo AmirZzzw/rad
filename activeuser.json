@@ -262,5 +262,11 @@
     "key": "00",
     "expirydate": "27-01-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d002e26efbf786de",
+    "key": "Kon",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
