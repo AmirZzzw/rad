@@ -268,5 +268,11 @@
     "key": "Kon",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f3969b71b2c79961",
+    "key": "MMA",
+    "expirydate": "20-03-2026",
+    "Allowoffline": false
   }
 ]
