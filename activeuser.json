@@ -208,5 +208,11 @@
     "key": "965",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "4aa97d5e1651f6da",
+    "key": "Z0M1X",
+    "expirydate": "21-06-2031",
+    "Allowoffline": false
   }
 ]
